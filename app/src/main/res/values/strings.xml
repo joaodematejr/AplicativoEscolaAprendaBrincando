@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Escola Aprenda Brincando</string>
+    <string name="escolaNomeText">Aprenda Brincando</string>
+    <string name="escolaText">Escola</string>
+    <string name="loginText">Acesse ultilizando os dados de sua conta.</string>
+    <string name="inputTextEmail">Email</string>
+    <string name="inputTextSenha">Senha</string>
+    <string name="botaoLogar">Logar-se</string>
+    <string name="textSenha">Esqueci a senha </string>
+
+    <string name="textMenu">Menu</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_menuu">MenuuActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="large_text">
+
+    </string>
+</resources>
